@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  2 17:51:58 2020
+'''
+Created by Vedant Christian
+Created on 18 / 08 / 2020
+'''
 
-@author: 14chr
-"""
 terms = int(input("How many terms? "))
 
 base = int(input("What is the base? "))
